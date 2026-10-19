@@ -15,8 +15,8 @@ load_dotenv()
 perm_file = "perm_ban.txt"
 temp_file = "temp_ban.txt"
 
-sender_email = os.getenv('GMAIL_ADDRESS')
-password = os.getenv('GMAIL_PASSWORD')
+sender_email = os.getenv('sasisose24@gmail.com')
+password = os.getenv('785797114@')
 
 support_emails = [
     "support@whatsapp.com",
